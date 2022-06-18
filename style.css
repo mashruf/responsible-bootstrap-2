@@ -1,0 +1,13 @@
+.bg-header-color {
+    background-color: #264653;
+
+}
+
+
+.btn-login {
+    background-color: #E76F51;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    border: none;
+}
