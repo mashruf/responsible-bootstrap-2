@@ -7,7 +7,23 @@
 .btn-login {
     background-color: #E76F51;
     color: white;
-    border-radius: 8px;
-    padding: 10px 20px;
+    border-radius: 5px;
+    padding: 10px 25px;
+    border: none;
+}
+
+.btn-modal-purchase {
+    background-color: #E76F51;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 50px;
+    border: none;
+}
+
+.btn-modal-proceed {
+    background-color: #E76F51;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 30px;
     border: none;
 }
