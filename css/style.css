@@ -4,7 +4,7 @@
 }
 
 
-.btn-login {
+.btn-bg-orng {
     background-color: #E76F51;
     color: white;
     border-radius: 5px;
@@ -38,4 +38,12 @@
 
 .custom-img-gray {
     filter: grayscale(100%);
+}
+
+.btn-bg-white {
+    background-color: white;
+    color: #E76F51;
+    border-radius: 5px;
+    padding: 10px 25px;
+    border: 1px solid #E76F51;
 }
