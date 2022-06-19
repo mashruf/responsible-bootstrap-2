@@ -27,3 +27,15 @@
     padding: 10px 30px;
     border: none;
 }
+
+.custom-small-color {
+    color: #E76F51;
+}
+
+.custom-hr-color {
+    color: #E76F51;
+}
+
+.custom-img-gray {
+    filter: grayscale(100%);
+}
