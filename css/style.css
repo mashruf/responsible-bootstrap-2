@@ -55,3 +55,7 @@
 .bi {
     color: #E77C40;
 }
+
+.custom-accordion-btn {
+    border: 0;
+}
