@@ -59,3 +59,12 @@
 .custom-accordion-btn {
     border: 0;
 }
+
+.bg-footer {
+    background-color: #0B0D17;
+
+}
+
+.text-custom-size-footer {
+    font-size: 18px;
+}
